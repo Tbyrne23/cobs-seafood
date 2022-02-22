@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cobs-seafood/static/css/main.073c9b0a.css",
-    "main.js": "/cobs-seafood/static/js/main.75ee0fc7.js",
+    "main.js": "/cobs-seafood/static/js/main.f5ad2b63.js",
     "static/js/787.3c81836f.chunk.js": "/cobs-seafood/static/js/787.3c81836f.chunk.js",
     "static/media/logo.svg": "/cobs-seafood/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/cobs-seafood/index.html",
     "main.073c9b0a.css.map": "/cobs-seafood/static/css/main.073c9b0a.css.map",
-    "main.75ee0fc7.js.map": "/cobs-seafood/static/js/main.75ee0fc7.js.map",
+    "main.f5ad2b63.js.map": "/cobs-seafood/static/js/main.f5ad2b63.js.map",
     "787.3c81836f.chunk.js.map": "/cobs-seafood/static/js/787.3c81836f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.75ee0fc7.js"
+    "static/js/main.f5ad2b63.js"
   ]
 }
